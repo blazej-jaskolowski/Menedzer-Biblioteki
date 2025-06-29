@@ -43,34 +43,34 @@ Lista obecnych funkcjonalności:
 ## Jak używać
 
 1. Dodawanie nowej książki do listy:
-Wypełnij pola: Tytuł, Autor, Rok wydania
-Kliknij przycisk "Dodaj książkę"
+Wypełnij pola: Tytuł, Autor, Rok wydania.
+Kliknij przycisk "Dodaj książkę".
 
 2. Zmiana statusu wypożyczenia:
-Wybierz książkę z listy
-Kliknij przycisk "Wypożycz/Zwróć"
+Wybierz książkę z listy.
+Kliknij przycisk "Wypożycz/Zwróć".
 
 3. Sortowanie książek:
-   Wybierz kryterium sortowania z rozwijanej listy
-   Kliknij przycisk "Sortuj"
+   Wybierz kryterium sortowania z rozwijanej listy.
+   Kliknij przycisk "Sortuj".
    
 5. Usuwanie książek z listy:
-Wybierz książkę którą chcesz usunąć
-Kliknij przycisk "Usuń"
+Wybierz książkę którą chcesz usunąć.
+Kliknij przycisk "Usuń".
 
 6. Szukanie książek:
-Wpisz tytuł szukanej książki
-Kliknij przycisk "Szukaj"
+Wpisz tytuł szukanej książki.
+Kliknij przycisk "Szukaj".
 
 7. Eksportowanie listy książek do pliku .txt:
-Kliknij przycisk "Zapisz listę..."
-   Nazwij plik .txt
-   Kliknij przycisk "Zapisz"
+Kliknij przycisk "Zapisz listę...".
+   Nazwij plik .txt.
+   Kliknij przycisk "Zapisz".
 
 8. Importowanie listy książek do pliku .txt:
-Kliknij przycisk "Wczytaj listę..."
-Wybierz plik .txt
-Kliknij przycisk "Wczytaj"
+Kliknij przycisk "Wczytaj listę...".
+Wybierz plik .txt.
+Kliknij przycisk "Wczytaj".
 
 ## Status projektu
 Projekt jest: w trakcie rozwoju
