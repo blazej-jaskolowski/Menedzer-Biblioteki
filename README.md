@@ -76,6 +76,6 @@ Kliknij przycisk "Wczytaj".
 Projekt jest: w trakcie rozwoju
 
 ## Planowane funkcjonalności
-Rozbudowanie systemu rezerwacji książek
-System logowania użytkowników
-Statystyki wypożyczeń
+* Rozbudowanie systemu rezerwacji książek
+* System logowania użytkowników
+* Statystyki wypożyczeń
