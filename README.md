@@ -1,4 +1,4 @@
-# Menedzer Biblioteki 📚
+# Menedżer Biblioteki 📚
 
 Prosty system zarządzania biblioteką napisany w C# Windows Forms. Aplikacja umożliwia katalogowanie książek, śledzenie ich statusu wypożyczenia oraz podstawowe operacje na bazie książek.
 
